@@ -49,4 +49,4 @@
                 <p>¿Ya tienes cuenta? <a href="index.php?route=auth/login">Inicia sesión</a></p>
             </div>
         </div>
-<?php include __DIR__ . '/../../layouts/footer.php'; ?>
+<?php include __DIR__ . '/../layouts/footer.php'; ?>

@@ -36,4 +36,4 @@
                 <p>¿No tienes cuenta? <a href="index.php?route=auth/register">Regístrate aquí</a></p>
             </div>
         </div>
-<?php include __DIR__ . '/../../layouts/footer.php'; ?>
+<?php include __DIR__ . '/../layouts/footer.php'; ?>
