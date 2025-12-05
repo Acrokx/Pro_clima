@@ -252,3 +252,4 @@ Este proyecto es de código abierto y está disponible bajo la licencia MIT.
 *ClimaApp v1.0.0 - Sistema completo de gestión agrícola meteorológica*
 
 # Pro_clima
+"# pronostic" 
